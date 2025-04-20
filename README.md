@@ -125,20 +125,11 @@ The project follows a structured data analysis workflow:
 - **Result Interpretation**:  
   Analyze overfitting and feature importance (e.g., coefficients in Logistic Regression).
 
----
 
-## IX. Optimization and Recommendations
-
-- **Probability Threshold Adjustment**:  
-  Fine-tune decision threshold to optimize business KPIs using precision-recall curves.
-
-- **Campaign Optimization Recommendations**:
-  - Target users with predicted click probability above threshold `X`.
-  - Use short email formats during morning hours for specific demographics.
 
 ---
 
-## X. Dependencies
+## IX. Dependencies
 
 Python libraries used in this project:
 
